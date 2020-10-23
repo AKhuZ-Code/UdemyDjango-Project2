@@ -1,6 +1,6 @@
 # UdemyDjango-Project2
 
-Created a small website for Coffee Lovers using HTML - styled with Bootstrap 4
+Created a small website for Coffee Lovers using HTML - styled using Bootstrap 4
 
 Online Course: Python and Django Full Stack Web Developer Bootcamp
 
