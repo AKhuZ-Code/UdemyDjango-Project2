@@ -12,6 +12,6 @@ Project: Bootstrap Project
 
 ## File Dictionary
 
-• bootstrap1.html: Landing page of the website
+• <b>bootstrap1.html</b>: Landing page of the website
 
-• bootstrap2.html: Page for sign-in
+• <b>bootstrap2.html</b>: Page for sign-in
